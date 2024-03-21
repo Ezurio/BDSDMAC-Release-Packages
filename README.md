@@ -1,4 +1,4 @@
-# BDSMAC-Release-Packages
-BDSMAC Radio Releases
+# BDSDMAC-Release-Packages
+BDSDMAC Radio Releases
 
-For Releases, Please Visit: https://github.com/LairdCP/BDSMAC-Release-Packages/releases
+For Releases, Please Visit: https://github.com/LairdCP/BDSDMAC-Release-Packages/releases
